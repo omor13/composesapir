@@ -29,10 +29,10 @@ This Lab will teach you how to use use Docker Compose, a tool for defining and r
 
 Firstly , login to aws console using the following credentials:
 
-| Account ID | 777203705741 |
-| ---------- | ------------ |
-| Username   | analiza      |
-| Password   | Analiza2022$ |
+| Account ID | *************** |
+| ---------- | --------------- |
+| Username   | <your-username> |
+| Password   | <your-password  |
 
 ## Step 2️⃣: `Create an EC2 Instance`
 
